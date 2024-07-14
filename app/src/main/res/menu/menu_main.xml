@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/searchBookMenu"
+        android:title="책 검색" />
+    <item
+        android:id="@+id/addMenu"
+        android:title="책 정보 추가" />
+    <item
+        android:id="@+id/devIntroMenu"
+        android:title="개발자 소개" />
+    <item
+        android:id="@+id/appFinishMenu"
+        android:title="앱 종료" />
+</menu>

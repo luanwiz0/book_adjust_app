@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FinalReport_01_20200962</string>
+    <string name="app_title">도서 관리 앱</string>
+    <string name="delete_ok">삭제 완료</string>
+    <string name="delete_failed">삭제 실패</string>
+</resources>
